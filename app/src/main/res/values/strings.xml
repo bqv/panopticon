@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Panopticon</string>
+    <string name="message_loading_error">An error has occured while loading images</string>
+    <string name="button_text_positive_error">Reload</string>
+    <string name="button_text_negative_error">Close</string>
+    <string name="message_text_empty_result">No results</string>
+
+    <string name="text_error">An error has occured</string>
+</resources>
